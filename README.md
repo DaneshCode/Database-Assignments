@@ -11,12 +11,12 @@ The questions for the assignments are provided in PDF format:
 
 ## 📦 Solutions
 The solutions for the assignments, including SQL code and other relevant files, are provided in ZIP format:
-- **Assignment 1:** See `Solutions/Assignment1.zip`
-- **Assignment 2:** See `Solutions/Assignment2.zip`
-- **Assignment 3:** See `Solutions/Assignment3.zip`
-- **Assignment 4:** See `Solutions/Assignment4.zip`
-- **Assignment 5:** See `Solutions/Assignment5.zip`
-- **Assignment 6:** See `Solutions/Assignment6.zip`
+- **Assignment 1:** See `Solutions/Assignment1`
+- **Assignment 2:** See `Solutions/Assignment2`
+- **Assignment 3:** See `Solutions/Assignment3`
+- **Assignment 4:** See `Solutions/Assignment4`
+- **Assignment 5:** See `Solutions/Assignment5`
+- **Assignment 6:** See `Solutions/Assignment6`
 
 ## 🛠️ Instructions
 To view or extract the solutions:
