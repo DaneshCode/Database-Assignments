@@ -1,0 +1,1 @@
+SELECT * FROM Messages WHERE (ReceiverId = 10 OR SenderId = 10) AND IsDeleted = 1;
