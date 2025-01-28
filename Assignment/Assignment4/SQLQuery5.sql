@@ -1,1 +1,0 @@
-SELECT DISTINCT Firstname FROM Messages INNER JOIN Users ON Messages.ReceiverId = Users.Id WHERE SenderId = 10;

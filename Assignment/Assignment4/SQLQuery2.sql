@@ -1,1 +1,0 @@
-SELECT * FROM Messages WHERE SenderId = 10;

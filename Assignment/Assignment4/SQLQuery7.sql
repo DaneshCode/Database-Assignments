@@ -1,1 +1,0 @@
-SELECT *, (SELECT COUNT(*) FROM MessageAttachments WHERE MessageId = Messages.Id) as AttachmentCount FROM Messages;

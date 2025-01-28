@@ -1,1 +1,0 @@
-SELECT * FROM Messages WHERE Title LIKE '%computer%' OR Message LIKE '%computer%';
